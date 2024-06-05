@@ -1,11 +1,13 @@
-<h1 align="center">Hi there 👋! My name is Andrew</h1>
-<h2 align="center">I'm a  Virtual Reality Web Developer and a World Builder, from the planet Titan👽</h2>
+<h1 align="center">Hi there <img src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif" height="35" />! My name is Andrew!</h1>
+<h2 align="center">I'm a  Virtual Reality Web Developer and a World Builder, from the planet Titan<img src="https://media.tenor.com/G7CZu3pUuOQAAAAi/alien-dance.gif" height="35" /></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrewwiley57&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewwiley57&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewwiley57&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph" />
 </div>
+
+
 
 
 <img align="right" height="200" src="https://avatars.githubusercontent.com/u/170431056?s=400&u=889188b5d3b050295ec5f614cde3c180f069379b&v=4" />
